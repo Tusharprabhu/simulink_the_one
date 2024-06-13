@@ -1,0 +1,31 @@
+#
+#DAStudio Preference File
+#
+
+
+[DAStudio DDG]
+DDGFontSize=10
+
+[GLUEEditorPreferences]
+FirstTimeScrollNotification=0
+SuggestQuickInsertNotification=0
+
+[General]
+MatlabRelease=2024a
+
+[LibraryBrowser2]
+LBRecentName0=simulink/Math Operations/Add
+LBRecentName1=simulink/Commonly Used Blocks/Integrator
+LBRecentName2=simulink/Commonly Used Blocks/Scope
+LBRecentName3=simulink/Math Operations/Gain
+LBRecentName4=simulink/Sources/Step
+LBScaleFactor=1
+LBSearchHistory=adder,integrator,scope,gain,step,
+LBSearch_MatchCase=0
+LBSearch_MatchWholeWord=0
+LBSearch_UseRegExp=0
+LBSortStyle=0
+LBTreePopupHeight=500
+LBTreePopupWidth=250
+LBUseCache=1
+
